@@ -118,7 +118,7 @@ div {
 }
 
 /*mobile version*/
-@media (max-width: 767px) {
+@media only screen (max-width: 767px) {
   .colmn-sm-12 {
       float: left;
       width: 100%;
